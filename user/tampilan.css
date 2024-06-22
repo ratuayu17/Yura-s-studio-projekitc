@@ -1,0 +1,20 @@
+.section1 {
+    background-image: url(./gambar/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 565px;
+}
+
+.h1 {
+    padding-top: 180px;
+    padding-bottom: 290px;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.2);
+}
+
+.button {
+    margin-top: -500px;
+    margin-left: 580px;
+}
+
+
